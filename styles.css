@@ -1,0 +1,82 @@
+@import "https://fonts.googleapis.com/css2?family=Manrope:wght@700&display=swap";
+body,
+h1,
+p,
+button {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: #202733;
+  font-family: Manrope, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+#container {
+  gap: 1rem;
+  text-align: center;
+  /* height: 17rem; */
+  display: flex;
+  width: 20.75rem;
+  flex-direction: column;
+  /* background-color: #313a48; */
+  align-items: center;
+}
+#patternD {
+  display: none;
+}
+h1 {
+  color: #53ffaa;
+  font-size: 0.8rem;
+}
+p {
+  font-size: 20px;
+  font-weight: 700;
+  display: flex;
+  height: 7rem;
+  text-align: center;
+  margin-bottom: 1.8rem;
+  margin-top: 2rem;
+  color: #cee3e9;
+  align-items: center;
+}
+#patternM {
+  margin-top: 0rem;
+}
+button {
+  display: flex;
+  background-color: #53ffaa;
+  border: none;
+  border-radius: 30px;
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+  align-items: center;
+  justify-content: center;
+}
+main {
+  display: flex;
+  flex-direction: column;
+  width: 20.75rem;
+  height: 3.75rem;
+  border-radius: 10px;
+  align-items: center;
+}
+section {
+  border-radius: 10px;
+  gap: 2rem;
+  padding: 2rem;
+  background-color: #313a48;
+  display: flex;
+  height: 16.5rem;
+  flex-direction: column;
+  align-items: center;
+}
+button:hover {
+  box-shadow: 0 0 10px #53ffaa;
+}
