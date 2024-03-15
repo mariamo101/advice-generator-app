@@ -24,7 +24,7 @@
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://advice-generator-app-six-jet.vercel.app/)
+- Live Site URL: [ live site URL here](https://advice-generator-app-six-jet.vercel.app/)
 
 ## My process
 
