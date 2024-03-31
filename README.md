@@ -20,7 +20,8 @@
 
 ### Screenshot
 
-![](./screenshot.jpg)
+<img width="1024" alt="Screenshot 2024-03-31 at 01 21 39" src="https://github.com/mariamo101/typemaster-pre-launch-landing-page/assets/117212859/01229ae5-c66c-4651-a3c0-3f9d2da8e7e6">
+
 
 ### Links
 
